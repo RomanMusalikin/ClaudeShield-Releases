@@ -1,7 +1,11 @@
 # ClaudeShield для Windows x64
 
-Готовые сборки доступны в [GitHub Releases](https://github.com/RomanMusalikin/ClaudeShield-Releases/releases). Скачайте файл ClaudeShield.exe из вложений нужной версии. Русская инструкция встроена в приложение.
+[Скачать установщик ClaudeShield 0.12.19](https://github.com/RomanMusalikin/ClaudeShield-Releases/releases/download/v0.12.19/ClaudeShield-Setup-x64.msi)
 
-[Скачать ClaudeShield 0.12.19 для Windows x64](https://github.com/RomanMusalikin/ClaudeShield-Releases/releases/download/v0.12.19/ClaudeShield.exe). Обновления проверяются каждые три часа. В настройках можно включить «Автообновление» или нажать «Обновить сейчас». ClaudeShield проверяет подпись EXE и ждёт закрытия Claude и Codex. При ошибке запуска он восстанавливает предыдущую версию. Для перехода с 0.12.18 скачайте EXE вручную.
+Запустите MSI двойным щелчком. Установщик поместит приложение в `%LOCALAPPDATA%\Programs\ClaudeShield` и добавит ярлык **ClaudeShield** в меню «Пуск» текущего пользователя. Нажмите **Win** и введите **ClaudeShield**. Инструкция доступна в приложении по кнопке «Справка».
 
-SHA-256: 97CC0F6EB0ADE471FE278AE25E04E73D0191300815EA0B6BE3AF0DD978905B1E
+Если раньше вы запускали EXE из «Загрузок», сохраните работу в Claude и Codex и выйдите из прежнего монитора через его значок в трее. Запустите установленную копию из «Пуска». Если пользовались автозапуском, проверьте флажки «Запускать при входе в Windows» на обеих вкладках. Старую скачанную копию после этого можно удалить.
+
+Обновления проверяются каждые три часа. В настройках можно включить «Автообновление» или нажать «Обновить сейчас». Для полного удаления сначала удалите правила на использованных вкладках, снимите флажки автозапуска и выйдите из монитора. Затем удалите ClaudeShield через «Установленные приложения» Windows.
+
+[Переносимый EXE](https://github.com/RomanMusalikin/ClaudeShield-Releases/releases/download/v0.12.19/ClaudeShield.exe) · [Все выпуски](https://github.com/RomanMusalikin/ClaudeShield-Releases/releases)
