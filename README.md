@@ -1,6 +1,6 @@
 # ClaudeShield для Windows x64
 
-[Скачать установщик ClaudeShield 0.12.19](https://github.com/RomanMusalikin/ClaudeShield-Releases/releases/download/v0.12.19/ClaudeShield-Setup-x64.msi)
+[Скачать установщик ClaudeShield 0.12.20](https://github.com/RomanMusalikin/ClaudeShield-Releases/releases/download/v0.12.20/ClaudeShield-Setup-x64.msi)
 
 Запустите MSI двойным щелчком. В мастере нажмите «Далее» и «Установить». Когда появится сообщение «Установка ClaudeShield завершена», нажмите «Готово» для запуска. Если хотите открыть программу позже, снимите флажок «Запустить ClaudeShield». Установщик поместит приложение в `%LOCALAPPDATA%\Programs\ClaudeShield` и добавит ярлык **ClaudeShield** в меню «Пуск» текущего пользователя. Нажмите **Win** и введите **ClaudeShield**. Инструкция доступна в приложении по кнопке «Справка».
 
@@ -8,4 +8,6 @@
 
 Обновления проверяются каждые три часа. В настройках можно включить «Автообновление» или нажать «Обновить сейчас». Для полного удаления сначала удалите правила на использованных вкладках, снимите флажки автозапуска и выйдите из монитора. Затем удалите ClaudeShield через «Установленные приложения» Windows.
 
-[Переносимый EXE](https://github.com/RomanMusalikin/ClaudeShield-Releases/releases/download/v0.12.19/ClaudeShield.exe) · [Все выпуски](https://github.com/RomanMusalikin/ClaudeShield-Releases/releases)
+[Переносимый EXE](https://github.com/RomanMusalikin/ClaudeShield-Releases/releases/download/v0.12.20/ClaudeShield.exe) · [Все выпуски](https://github.com/RomanMusalikin/ClaudeShield-Releases/releases)
+
+Для автоматического восстановления правил Codex после обновления приложения сохраните работу, закройте Codex и один раз подтвердите «Настроить защиту» на его вкладке. Затем оставьте включённой «Проверку».
